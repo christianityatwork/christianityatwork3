@@ -1,0 +1,58 @@
+/* ELement Display Conversions */
+
+.inline-block {
+  display: inline-block;
+}
+
+/* Images & Backgrounds */
+
+.bg-circular {
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: auto 100% !important;
+}
+
+.bg-img {
+  background-position: center bottom;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+}
+
+.circular {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  -webkit-border-radius: 75px;
+  -moz-border-radius: 75px;
+  border: 1px solid transparent;
+}
+
+.circular:hover {
+  opacity: .7;
+}
+
+/* Spacing */
+
+.separation-1 {
+  height: 25px;
+}
+
+.separation-2 {
+  height: 50px;
+}
+
+.separation-3 {
+  height: 75px;
+}
+
+/* Transitions */
+
+.fast-height-trans {
+  transition: height 300ms;
+  -webkit-transition: height 300ms; /* Safari */
+}
+
+.fast-opacity-trans {
+  transition: opacity 300ms;
+  -webkit-transition: opacity 300ms; /* Safari */
+}

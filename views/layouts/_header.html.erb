@@ -1,0 +1,47 @@
+<header>
+  <div class="row">
+    <div class"contain-to-grid">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+         <li class="name">
+          <h1><a href="/">CHRISTIANITY AT WORK</a></h>
+         </li>
+          <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Nav Section -->
+          <ul class="right">
+            
+            <li><%= link_to "HOME", root_path, class: "fast-color-trans" %></li>
+            <li class="has-dropdown">
+             <%= link_to "ABOUT", "javascript:;", class: "fast-color-trans" %>
+             <ul class="dropdown">
+              <li><%= link_to "About", about_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "Vision/Mission/Values", vision_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "The Seminar", seminar_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "The Founder", founder_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "What We Believe", belief_path, class: "fast-color-trans" %></li>
+             </ul>
+            <li class="has-dropdown">
+             <%= link_to "TOOLS", "javascript:;", class: "fast-color-trans" %>
+             <ul class="dropdown">
+              <li><%= link_to "Core Disciplines and Key Competencies", coredkeyc_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "Career Questions to Ask", career_questions_path, class: "fast-color-trans" %></li>
+             </ul>
+            <li class="has-dropdown"> 
+             <%= link_to "MINISTRIES", "javascript:;", class: "fast-color-trans" %>
+             <ul class="dropdown">
+              <li><%= link_to "Southern California", southerncali_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "Northern California", northerncali_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "Austrialia", austrailia_path, class: "fast-color-trans" %></li>
+              <li><%= link_to "East Asia", eastasia_path, class: "fast-color-trans" %></li>
+             </ul> 
+            <li><%= link_to "CONTACT US", contact_path, class: "fast-color-trans" %></li>
+          
+          </ul>
+        
+        </section>
+      </nav>
+    </div>
+  </div>
+</header>

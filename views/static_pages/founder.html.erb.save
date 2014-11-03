@@ -1,0 +1,32 @@
+<% provide(:title, 'founder') %>
+<div class="row text-center">
+ <div class="small-12 columns">
+      <h2><strong><font size="10"><font color="#425D8E">Christianity at Work</font></strong><br>
+      <weak><p><font size=5><font color=#425D8E><font face="Oswald">Live. Breathe. Move.</p></font></weak></h2>
+      <h6><weak><font color=#425D8E>"because as He is, so also are we in this world." - 1 John 4.17c</font></weak>
+
+
+       <section class="main-photo bg-img fast-height-trans" id="jgreer-main"></section>
+
+  </div>
+ </div>
+</div>
+<div class="row">
+ <div class="small-12 medium-12 large-12 columns text-left"">
+  <div id="modal1" class="top responsive-square" data-reveal>
+   <div class = "small 8 columns">
+    <div class="row text-center">
+     <div class = "small-12 columns">
+          <h3 class = "serif"><font face="Oswald">John Greer</font></h3> 
+          <h4 class ="serif"><font face="Oswald">Founder</font></h4>
+     </div>
+    </div>
+          <p class = "responsive-indent">John is an engineer in the Los Angeles area and is the founder of Christianity at Work. He is currently on the board of In Christ Alone (ICA) (www.icaministry.org) – an international, interdenominational, campus ministry and mission organization. He also serves as a teaching elder at Grace of Long Beach.</p>
+          <p class = "responsive-indent">John has a Bachelor’s Degree in Electrical Engineering Technology from Western Kentucky University and a Master of Divinity from Fuller Theological Seminary with an emphasis in Cross-cultural Studies. He has also completed graduate work at both the University of Massachusetts and the University of Southern California (USC).</p>
+          <p class = "responsive-indent">As a student at WKU, John served two years as student-president of the WKU Navigators. Following graduation he entered the work-world at a computer company in New England where he worked with the Navigator’s Church Discipleship Ministries. In 1992, John left work to serve as a Conservative Baptist Missionary in East Asia before returning to the U.S. to pursue his Masters.</p>
+          <p class = "responsive-indent">After seminary, John founded Living Peace Community Church in the San Fernando Valley with the American Baptist Churches of Los Angeles (ABCLA). He served as the head pastor there for nearly ten years. He also served as both an engineer and pastor in East Asia from 1998 to 1999. Since returning to the U.S. he has served as a full-time engineer and lay-minister as well as a short-term missionary over-seas.</p>
+          <p class = "responsive-indent">John and his wife Jenny are in their 20th year of marriage and currently live with their three children in Long Beach, California.</p>
+   </div>
+  </div>
+ </div>
+</div>
